@@ -40,6 +40,18 @@ Commands:
 
 >ls -l 
 
+> less --> to View the file page wise 
+
+> more 
+
+> head   --> Shows first 10 lines of a file. 
+     head -20 filename
+
+> tail   --> Shows last 10 lines of a file.
+
+     tail -20 filename
+> page   
+
 
 
 

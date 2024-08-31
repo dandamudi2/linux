@@ -1,0 +1,14 @@
+> touch  --> create a 0 bites file. 
+
+> ls 
+
+> ls -l 
+
+> ls -l -t
+
+> ls -l -t -r
+
+> cat > file3.txt --> to create new file and enter content. 
+   Ctlr + C --> to come out of the main window. 
+
+> 

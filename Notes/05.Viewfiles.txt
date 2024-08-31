@@ -1,0 +1,7 @@
+> ls --> to see the content of the directory.
+
+> pwd --> present working directory.
+
+> cat --> To view the file content .
+   Ex: cat filename
+

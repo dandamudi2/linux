@@ -1,0 +1,20 @@
+> date 
+
+> cal --> displays current month calender 
+
+>uptime --> Displays how long the system is running.
+
+>whoami  --> displays the current user
+
+users information: 
+=======================
+> users 
+
+> id --> Shows the user information
+
+>who 
+
+> w --> user information
+
+
+man who 

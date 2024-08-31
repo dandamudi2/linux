@@ -1,0 +1,13 @@
+1. When navigating a unix filesystem, tehre are a few important commands;
+
+   "cd"
+   "pwd"
+   "ls"
+
+   cd --> stands for change directory.
+
+   pwd --> to print working directory. 
+
+   ls --> It lists all the directories / files within a current working directory.
+
+   
